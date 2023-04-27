@@ -1,5 +1,43 @@
 body {
-    background:#d3d3d3;
+    background:#dce5f5;    
+}
+.container {
+    width: 100vw;
+    height: 100vh;    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartao
+{
+    display: inline-block;
+    text-align: center;  
+    font-family: 'Outfit', sans-serif; 
+    background: white;
+    padding: 10px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 250px;
+    height: 400px;
+}
+
+#qrcode {
+    width: 250px;
+}
+
+#chamada {
+    font-size: 19px;
+    text-align: center; 
+}
+
+#regular {
+    font-size: 15px;
+    color: #a19a9a;
+    text-align: center; 
 }
 
 p {
