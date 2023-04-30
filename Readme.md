@@ -1,1 +1,1 @@
-Projeto cartão QR code.
+Projeto cartão QR Code.
